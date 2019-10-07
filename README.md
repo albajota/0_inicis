@@ -2,7 +2,7 @@
 Crear un repositori
 
 ##Actividades
-* [1_llocweb](https://github.com/albajota/1llocweb/)
+* [1_llocweb](https://albajota.github.io/1llocweb/)
 * [2_CMYK]()
 
 ## Páginas clase
