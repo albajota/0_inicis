@@ -4,6 +4,7 @@ Crear un repositori
 ##Actividades
 * [1_llocweb](https://albajota.github.io/1llocweb/)
 * [2_CMYK](https://albajota.github.io/2_cmyk/)
+* [3_disseny](https://albajota.github.io/3_disseny/)
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
