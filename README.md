@@ -5,6 +5,7 @@ Crear un repositori
 * [1_llocweb](https://albajota.github.io/1llocweb/)
 * [2_CMYK](https://albajota.github.io/2_cmyk/)
 * [3_disseny](https://albajota.github.io/3_disseny/)
+* [4_maquetacion](https://albajota.github.io/4_maquetacion/)
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
