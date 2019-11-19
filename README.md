@@ -9,6 +9,7 @@ Crear un repositori
 * [5_moduls](https://albajota.github.io/5_moduls/)
 * [6_tarjetas](https://albajota.github.io/6_tarjetas/)
 * [7_landing_pages](https://albajota.github.io/7_landing_pages/)
+* [8_grid](https://albajota.github.io/8_grid/)
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
