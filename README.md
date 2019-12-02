@@ -6,10 +6,12 @@ Crear un repositori
 * [2_CMYK](https://albajota.github.io/2_cmyk/)
 * [3_disseny](https://albajota.github.io/3_disseny/)
 * [4_maquetacion](https://albajota.github.io/4_maquetacion/)
+* [5_tarjetas](https://albajota.github.io/6_tarjetas/)
+* [6_landing_pages](https://albajota.github.io/7_landing_pages/)
+* [7_grid_moma](https://albajota.github.io/8_grid/)
+
+## Actividades complementarias
 * [5_moduls](https://albajota.github.io/5_moduls/)
-* [6_tarjetas](https://albajota.github.io/6_tarjetas/)
-* [7_landing_pages](https://albajota.github.io/7_landing_pages/)
-* [8_grid](https://albajota.github.io/8_grid/)
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
