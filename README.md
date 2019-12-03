@@ -9,7 +9,7 @@ Crear un repositori
 * [5_tarjetas](https://albajota.github.io/5_tarjetas/)
 * [6_landing_pages](https://albajota.github.io/6_landing_pages/)
 * [7_grid_moma](https://albajota.github.io/7_grid_moma/)
-* [8_grid_area_minimshop]()
+* [8_grid_area_minimshop](https://albajota.github.io/8_gridarea_minim_shop/)
 
 ## Actividades complementarias
 * [moduls](https://albajota.github.io/moduls/)
