@@ -12,6 +12,7 @@ Crear un repositori
 * [8_grid_area_minimshop](https://albajota.github.io/8_gridarea_minim_shop/)
 * [9_transform](https://albajota.github.io/9_transform/)
 * [10_madebyfielwork](https://albajota.github.io/10_madebyfieldwork/)
+* [11_examen](https://albajota.github.io/examen/)
 
 ## Actividades complementarias
 * [moduls](https://albajota.github.io/moduls/)
