@@ -13,6 +13,7 @@ Crear un repositori
 * [9_transform](https://albajota.github.io/9_transform/)
 * [10_madebyfielwork](https://albajota.github.io/10_madebyfieldwork/)
 * [11_examen](https://albajota.github.io/examen/)
+* [14_js_27enero](https://albajota.github.io/14_js_parejas/)
 
 ## Actividades complementarias
 * [moduls](https://albajota.github.io/moduls/)
