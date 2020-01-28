@@ -13,7 +13,8 @@ Crear un repositori
 * [9_transform](https://albajota.github.io/9_transform/)
 * [10_madebyfielwork](https://albajota.github.io/10_madebyfieldwork/)
 * [11_examen](https://albajota.github.io/examen/)
-* [13_js_27enero](https://albajota.github.io/14_js_parejas/)
+* [12_aesop]()
+* [13_javascript_parejas](https://albajota.github.io/13_javascript_parejas/) Este es el ejercico que a Nico  y a min os falla la subida pero en local lo comprobaste y  estaba correcto.
 
 ## Actividades complementarias
 * [moduls](https://albajota.github.io/moduls/)
