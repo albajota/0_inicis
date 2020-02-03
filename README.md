@@ -14,9 +14,10 @@ Crear un repositori
 * [10_madebyfielwork](https://albajota.github.io/10_madebyfieldwork/)
 * [11_examen](https://albajota.github.io/examen/)
 * [12_aesop]()
-* [13_javascript_parejas](https://albajota.github.io/13_javascript_parejas/) Este es el ejercico que a Nico  y a min os falla la subida pero en local lo comprobaste y  estaba correcto.
+* [13_javascript_parejas](https://albajota.github.io/13_javascript_parejas/) Este es el ejercico que a Nico  y a mi nos falla la subida pero en local lo comprobaste y  estaba correcto.
 
-## [5_moduls](https://albajota.github.io/moduls/)
+## Prácticas no obligatorias para subir
+* [5_moduls](https://albajota.github.io/moduls/)
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
