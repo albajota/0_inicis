@@ -16,8 +16,7 @@ Crear un repositori
 * [12_aesop]()
 * [13_javascript_parejas](https://albajota.github.io/13_javascript_parejas/) Este es el ejercico que a Nico  y a min os falla la subida pero en local lo comprobaste y  estaba correcto.
 
-## Actividades complementarias
-* [moduls](https://albajota.github.io/moduls/)
+## [5_moduls](https://albajota.github.io/moduls/)
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
