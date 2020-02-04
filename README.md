@@ -15,6 +15,7 @@ Crear un repositori
 * [11_examen](https://albajota.github.io/examen/)
 * [12_aesop]()
 * [13_javascript_parejas](https://albajota.github.io/13_javascript_parejas/) Este es el ejercico que a Nico  y a mi nos falla la subida pero en local lo comprobaste y  estaba correcto.
+* [14_menu_parejas](https://albajota.github.io/14_menu_parejas/) Mi pareja es Nico.
 
 ## Prácticas no obligatorias para subir
 * [5_moduls](https://albajota.github.io/moduls/)
