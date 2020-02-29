@@ -14,7 +14,7 @@ Crear un repositori
 * [9_transform](https://albajota.github.io/9_transform/)
 * [10_madebyfielwork](https://albajota.github.io/10_madebyfieldwork/)
 * [11_examen](https://albajota.github.io/examen/)
-* [12_aesop]() Esta práctica no se acabó en clase y he hecho lo que he podido pero no es obligatoria su subida.
+* [12_aesop](https://albajota.github.io/12_aesop/) Esta práctica no se acabó en clase y he hecho lo que he podido pero no es obligatoria su subida.
 * [13_javascript_parejas](https://albajota.github.io/13_javascript_parejas/) Este es el ejercico que a Nico  y a mi nos falla la subida pero en local lo comprobaste y estaba correcto.
 * [13_javascript_practicapersonal_01](https://albajota.github.io/13_javascript_practicapersonal_01/) Esta práctica tampoco aplica el javascript.
 * [13_javascript_practicapersonal_02](https://albajota.github.io/13_javascript_practicapersonal_02/) Esta práctica tampoco aplica el javascript.
