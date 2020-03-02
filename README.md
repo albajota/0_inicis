@@ -20,7 +20,7 @@ Crear un repositori
 * [13_javascript_practicapersonal_02](https://albajota.github.io/13_javascript_practicapersonal_02/) Esta práctica tampoco aplica el javascript.
 * [14_menu_parejas](https://albajota.github.io/14_menu_parejas/) Mi pareja es Nico.
 * [15_svg](https://albajota.github.io/15_svg/) Esta práctica no es obligatoria.
-* [16_portfolio](https://albajota.github.io/16_portfolio/)
+* [16_portfolio](https://albajota.github.io/16_portfolio/) 
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
