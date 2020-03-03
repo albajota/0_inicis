@@ -21,6 +21,7 @@ Crear un repositori
 * [14_menu_parejas](https://albajota.github.io/14_menu_parejas/) Mi pareja es Nico.
 * [15_svg](https://albajota.github.io/15_svg/) Esta práctica no es obligatoria.
 * [16_portfolio](https://albajota.github.io/16_portfolio/) 
+* [17_examen_02](https://albajota.github.io/17_examen_02/)
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
